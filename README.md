@@ -69,7 +69,7 @@
 
 ## 🐍 Contribution Activity (Animated)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sameerk28/sameerk28/output/github-contribution-grid-snake.svg" />
+  ![snake](https://raw.githubusercontent.com/sameerk28/sameerk28/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
@@ -179,7 +179,8 @@
 
 ## 🐍 Open-Source Activity
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sameerk28/sameerk28/output/github-contribution-grid-snake.svg" />
+  ![snake](https://raw.githubusercontent.com/sameerk28/sameerk28/output/github-contribution-grid-snake.svg)
+
 </p>
 
 ---
