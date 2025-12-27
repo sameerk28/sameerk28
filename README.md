@@ -76,10 +76,10 @@
 
 ## 🌐 Let’s Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/sameerkhan28">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:sameerkhan28@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -186,10 +186,10 @@
 
 ## 🌐 Executive Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/sameerkhan28">
     <img src="https://img.shields.io/badge/LinkedIn-Global%20Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:sameerk28@gmail.com">
     <img src="https://img.shields.io/badge/Consulting-Inquiries-darkgreen?style=for-the-badge&logo=gmail" />
   </a>
 </p>
