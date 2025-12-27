@@ -1,3 +1,18 @@
+<!-- Animated Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Sameer%20Khan&fontSize=42&fontAlignY=35&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Terraform+%7C+CI%2FCD+%7C+GitOps;Building+Secure+%26+Scalable+Cloud+Systems" />
+</p>
+
+<h3 align="center">☁️ Cloud | DevOps | AWS | Azure Engineer</h3>
+
+<!-- Profile Metrics -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameerk28&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/sameerk28?label=Followers&style=flat-square" />
+</p>
 <!-- ================= HEADER WITH FIREWORK FEEL ================= -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Sameer%20Khan&fontSize=46&fontAlignY=40&desc=Cloud%20%7C%20DevOps%20Engineer&descAlignY=65&animation=fadeIn" />
 
