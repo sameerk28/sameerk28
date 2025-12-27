@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sameer Khan</h1>
+<h3 align="center">Cloud | DevOps | AWS | Azure Engineer</h3>
 
-<!--
-**sameerk28/sameerk28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=brightgreen" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- ☁️ Cloud & DevOps Engineer  
+- 🔧 AWS | Azure | Terraform | Kubernetes  
+- 🚀 CI/CD | Automation | GitOps  
+- 🌍 Open to Middle East & Global roles
+
+---
+
+### 🛠 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform"/>
+</p>
