@@ -72,3 +72,6 @@
 
 ![Test](https://github-readme-stats.vercel.app/api?username=sameerk28)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerk28&show_icons=true)
+
+
