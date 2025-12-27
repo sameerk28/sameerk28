@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sameer%20Khan&fontSize=40" />
+
 <h1 align="center">Hi 👋, I'm Sameer Khan</h1>
 <h3 align="center">Cloud | DevOps | AWS | Azure Engineer</h3>
 
@@ -30,5 +32,4 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight"/>
 </p>
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sameer%20Khan&fontSize=40" />
