@@ -7,13 +7,6 @@
 </p>
 
 
-<h3 align="center">☁️ Cloud | DevOps | AWS | Azure Engineer</h3>
-
-<!-- Profile Metrics -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameerk28&label=Profile%20Views&color=blueviolet&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/sameerk28?label=Followers&style=flat-square" />
-</p>
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=600&color=00E7FF&center=true&vCenter=true&width=800&lines=AWS+%7C+Azure+%7C+DevOps+Engineer;Terraform+%7C+Kubernetes+%7C+CI%2FCD;GitOps+%7C+Automation+%7C+Cloud+Security;Building+Reliable+%26+Scalable+Systems+🚀" />
