@@ -14,9 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=sameerk28&label=Profile%20Views&color=blueviolet&style=flat-square" />
   <img src="https://img.shields.io/github/followers/sameerk28?label=Followers&style=flat-square" />
 </p>
-<!-- ================= HEADER WITH FIREWORK FEEL ================= -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Sameer%20Khan&fontSize=46&fontAlignY=40&desc=Cloud%20%7C%20DevOps%20Engineer&descAlignY=65&animation=fadeIn" />
-
 <!-- ================= TYPING ANIMATION ================= -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=600&color=00E7FF&center=true&vCenter=true&width=800&lines=AWS+%7C+Azure+%7C+DevOps+Engineer;Terraform+%7C+Kubernetes+%7C+CI%2FCD;GitOps+%7C+Automation+%7C+Cloud+Security;Building+Reliable+%26+Scalable+Systems+🚀" />
